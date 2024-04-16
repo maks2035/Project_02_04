@@ -1,5 +1,5 @@
 # Распознание карт на видео при помощи sift
-
+видео ускорилось из-за распараллеливания 
 https://github.com/maks2035/Project_02_04/assets/79210414/e72863d5-2805-4e32-9721-d36d851adebf
 
 ![output](https://github.com/maks2035/Project_02_04/assets/79210414/0e3f0f68-2700-47e2-93c5-f2ab19760a86)
